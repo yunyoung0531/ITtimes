@@ -84,5 +84,5 @@ _11월~12월_
 
 **모바일 버전에서도 확인 할 수 있는 반응형 웹 사이트**
 
-<img src="https://user-images.githubusercontent.com/68066598/221130954-710d4d23-2c64-4852-bd41-c9f352abaf9a.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/68066598/221130954-710d4d23-2c64-4852-bd41-c9f352abaf9a.png" width="400" height="200">
 
