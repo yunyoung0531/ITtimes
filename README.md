@@ -21,3 +21,7 @@ _10월~11월_
 - 웹사이트 틀 만듦
 - 코드 리펙토링
 - 페이지네이션 기능가추가
+
+
+* 어려웠던 페이지네이션 기능
+<img src="![image](https://user-images.githubusercontent.com/68066598/221114737-f3e996fa-a6dd-40f1-a862-e859bc1c6a85.png)" width="200" height="400"/>
