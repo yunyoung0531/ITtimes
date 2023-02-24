@@ -17,7 +17,7 @@ _9월~10월_
 - JS로 간단한 게임을 구현해보면서 더 학습하기
 - 뉴스 API 가져오기
 
-_10월~11월_
+_11월~12월_
 - 웹사이트 틀 만듦
 - 코드 리펙토링
 - 페이지네이션 기능가추가
@@ -28,8 +28,8 @@ _10월~11월_
 <img src="https://user-images.githubusercontent.com/68066598/221126877-dee7bfe2-fded-41e3-9d7c-c983010e649f.png" width="300" height="100">
 
 ```js
-//페이지네이션
-const pagination = () => {
+    //페이지네이션
+    const pagination = () => {
     //li태그들을 담아둘 변수
     let paginationHTML = ``
     //총 페이지 수 total_page
@@ -47,8 +47,8 @@ const pagination = () => {
     document.querySelector(".pagination").innerHTML = paginationHTML
 }
 
-//페이지네이션 기능 함수
-const moveToPage = (pageNum) =>{
+    //페이지네이션 기능 함수
+    const moveToPage = (pageNum) =>{
     //1.이동하고 싶은 페이지를 알기
     page = pageNum
     console.log(page)
