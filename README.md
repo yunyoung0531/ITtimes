@@ -94,10 +94,6 @@ _11월~12월_
 
 
 
-
-
-
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/68066598/221143588-e27453a8-9be9-4ef2-8b71-3cf65cb8480f.gif)
-
+**여러 나라의 IT 기사들을 볼 수 있다**
 
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/68066598/221143940-8b276517-6a91-4bf8-9ebd-8ab369579c8f.gif)
