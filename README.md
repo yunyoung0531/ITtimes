@@ -23,6 +23,8 @@ _11월~12월_
 - 페이지네이션 기능가추가
 
 
+
+
 **어려웠던 페이지네이션 기능**
 
 <img src="https://user-images.githubusercontent.com/68066598/221126877-dee7bfe2-fded-41e3-9d7c-c983010e649f.png" width="300" height="100">
@@ -61,3 +63,20 @@ _11월~12월_
 **뉴스기사 검색하는 기능**
 
 <img src="https://user-images.githubusercontent.com/68066598/221130033-2447a864-b27c-43ce-ba72-9fc29d67a6d6.png" width="300" height="100">
+
+```js
+    const getNewsByKeyword = async() => {
+    //console.log("click")
+    //1. 검색 키워드 읽어오기
+    //2. url에 검색 키워드 붙이기
+    //3. 헤더준비
+    //4. url부르기
+    //5. 데이터 가져오기
+    //6. 데이터 보여주기
+
+    let keyword = document.getElementById("search-input").value
+    console.log("keyword", keyword)
+    url = new URL(`https://api.newscatcherapi.com/v2/search?q=${keyword}&page_size=10&topic=tech`) //newcatcherapi.com 에서 searchnews 헤드라인 가져오기
+    getNews()
+}
+```
