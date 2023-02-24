@@ -27,7 +27,7 @@ _11월~12월_
 
 **어려웠던 페이지네이션 기능**
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/68066598/221143181-4a48c68c-9ef2-4c9c-a288-136f2110539a.gif)
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/68066598/221144535-7de58b92-243c-447c-a86e-e56474319115.gif)
 
 <img src="https://user-images.githubusercontent.com/68066598/221126877-dee7bfe2-fded-41e3-9d7c-c983010e649f.png" width="300" height="100">
 
@@ -62,6 +62,7 @@ _11월~12월_
 ```
 
 
+
 **뉴스기사 검색하는 기능**
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/68066598/221143588-e27453a8-9be9-4ef2-8b71-3cf65cb8480f.gif)
@@ -84,6 +85,7 @@ _11월~12월_
     getNews()
 }
 ```
+
 
 
 **모바일 버전에서도 확인 할 수 있는 반응형 웹 사이트**
