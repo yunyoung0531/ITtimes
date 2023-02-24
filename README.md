@@ -23,7 +23,7 @@ _11월~12월_
 - 페이지네이션 기능가추가
 
 
-* 어려웠던 페이지네이션 기능
+**어려웠던 페이지네이션 기능**
 
 <img src="https://user-images.githubusercontent.com/68066598/221126877-dee7bfe2-fded-41e3-9d7c-c983010e649f.png" width="300" height="100">
 
@@ -58,4 +58,6 @@ _11월~12월_
 ```
 
 
-* 뉴스기사 검색하는 기능
+**뉴스기사 검색하는 기능**
+
+<img src="https://user-images.githubusercontent.com/68066598/221130033-2447a864-b27c-43ce-ba72-9fc29d67a6d6.png" width="300" height="100">
