@@ -25,6 +25,6 @@ _10월~11월_
 
 * 어려웠던 페이지네이션 기능
 
-<img src="https://user-images.githubusercontent.com/68066598/221126877-dee7bfe2-fded-41e3-9d7c-c983010e649f.png" width="400" height="150">
+<img src="https://user-images.githubusercontent.com/68066598/221126877-dee7bfe2-fded-41e3-9d7c-c983010e649f.png" width="300" height="100">
 
 
