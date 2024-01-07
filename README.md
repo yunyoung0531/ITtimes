@@ -7,9 +7,9 @@
 
 
 
-* 웹사이트 틀 잡기 - HTML, CSS
+* 웹사이트 틀 잡기 - HTML, CSS, JavaScript
 * API 가져오기 - newscatcher에서 제공하는 API (https://newscatcherapi.com/)
-* 부가적인 것들, 꾸미기 - javascript, CSS
+  
 
 _9월~10월_
 - HTML, CSS를 이용하 간단한 틀을 만듦
@@ -19,7 +19,9 @@ _9월~10월_
 
 _11월~12월_
 - 웹사이트 틀 만듦
-- 코드 리펙토링
+- 키워드별 IT기사 검색 기능
+- 나라별 IT기사 검색 기능
+- 코드 리팩토링
 - 페이지네이션 기능 추가
 
 
